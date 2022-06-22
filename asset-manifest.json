@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/expense-app/static/css/main.177c2566.css",
+    "main.js": "/expense-app/static/js/main.cbda91a4.js",
+    "static/js/787.0a10ec7e.chunk.js": "/expense-app/static/js/787.0a10ec7e.chunk.js",
+    "static/media/Spinner.svg": "/expense-app/static/media/Spinner.a0917889b06f952324cf0dbe01d55934.svg",
+    "index.html": "/expense-app/index.html",
+    "main.177c2566.css.map": "/expense-app/static/css/main.177c2566.css.map",
+    "main.cbda91a4.js.map": "/expense-app/static/js/main.cbda91a4.js.map",
+    "787.0a10ec7e.chunk.js.map": "/expense-app/static/js/787.0a10ec7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.177c2566.css",
+    "static/js/main.cbda91a4.js"
+  ]
+}
